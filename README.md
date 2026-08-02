@@ -6,7 +6,8 @@ This project analyzes airline passenger data to understand the factors that affe
 
 The project helps identify passenger satisfaction patterns based on customer type, travel type, class, age, flight distance, and airline services.
 
----
+-----
+**Data source:** https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset
 
 ## 🎯 Project Objectives
 
