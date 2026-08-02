@@ -9,6 +9,7 @@ The project helps identify passenger satisfaction patterns based on customer typ
 -----
 **Data source:** https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset
 
+-----
 ## 🎯 Project Objectives
 
 - Analyze overall passenger satisfaction.
